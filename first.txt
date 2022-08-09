@@ -5,3 +5,5 @@ Year is 2022
 It is raining heavily
 we are learning GIT
 Tommrow is wednesday
+We have communication skill on wednesday
+
